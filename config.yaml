@@ -4,3 +4,4 @@ seeder:
 parsers:
   - page_type: products
     file: ./parsers/products.rb
+    disabled: false
